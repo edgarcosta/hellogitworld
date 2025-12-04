@@ -6,7 +6,7 @@
 [subrepo]
 	remote = small
 	branch = main
-	commit = 9ec63a7363b71cfe54666bc11a192729d61d1960
+	commit = ce9e9d139a32a7609ea419b30e354b201b920577
 	method = rebase
 	cmdver = 0.4.9
 	parent = 3a26b4e145d2115b2a94edfd6f696725f8f852ff
